@@ -1,24 +1,6 @@
-<!doctype html>
-<html class="no-js" lang="">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>EnderPrism's 4 square meters of the internet</title>
-        <meta name="description" content="EnderPrism's website">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
-        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-        <!-- Place favicon.ico in the root directory -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-    </head>
-    <body>
-        <!--[if lt IE 8]>
-            <p class="browserupgrade">
-            You are using an <strong>outdated</strong> browser. Please
-            <a href="http://browsehappy.com/">upgrade your browser</a> to improve
-            your experience.
-            </p>
-        <![endif]-->
 <svg
    xml:space="preserve"
    inkscape:export-ydpi="96"
@@ -1823,7 +1805,7 @@
    style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.83465;stroke-dasharray:none;stroke-opacity:1"
    class="st0"
    d="m -31.177942,71.604191 c 0,0 -15.390397,-1.89e-4 -19.251953,1.035157 -2.126658,0.559646 -3.777605,2.239892 -4.365235,4.394531 -1.007369,3.86156 -1.007812,11.919922 -1.007812,11.919922 0,0 0.0018,8.058359 1.037109,11.919919 0.55965,2.12665 2.238577,3.80496 4.365235,4.39258 3.833576,1.03535 19.222656,1.03711 19.222656,1.03711 0,0 15.390392,-0.002 19.251954,-1.03711 2.1266513,-0.55964 3.7776036,-2.23794 4.365234,-4.39258 1.007365,-3.86156 1.0078126,-11.919919 1.0078126,-11.919919 0,0 1.917e-4,-8.058362 -1.0351563,-11.919922 -0.5596474,-2.126656 -2.2385818,-3.806903 -4.3652343,-4.394531 -3.833578,-1.035346 -19.22461,-1.035157 -19.22461,-1.035157 z m -5.037109,10.017579 12.873047,7.332031 -12.873047,7.332031 z" />
-
+	
 </g></a><a
        id="a622"
        xlink:href="https://github.com/NoEnd-yt"><ellipse
@@ -1853,12 +1835,9 @@
        inkscape:label="Outline" /></g><style
      type="text/css"
      id="style12931">
-#gallery,#g7661 {
+#gallery,#g7661 { 
     cursor:default;
 }
 .st0 { fill:#EE3124; }
 .st1 { fill:#FFFFFF; }
 </style></svg>
-
-    </body>
-</html>
